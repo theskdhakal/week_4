@@ -283,4 +283,10 @@ html {
   cursor: pointer;
   background: rgb(241, 233, 233);
   color: #fff;
-} /*# sourceMappingURL=style.css.map */
+}
+
+.section6 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
